@@ -42,10 +42,4 @@ while game_on:
             game_on = False
 
 
-
-
-
-
-
-
 screen.exitonclick()
