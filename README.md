@@ -19,6 +19,9 @@ This repository contains a collection of small Python projects completed as part
 ### 4. **Snake Game 🐍**
    - A simple Snake Game implemented in Python using the `turtle` module and **Object-Oriented Programming (OOP)**.
 
+### 5. **Pong Game**
+   - A simple Pong game implemented in Python using the `turtle` module practicing with **Object-Oriented Programming (OOP)**.
+
 ## How to Use
 1. Clone the repository
 2. Navigate to the folder
