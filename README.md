@@ -16,6 +16,9 @@ This repository contains a collection of small Python projects completed as part
 ### 3. **Turtle Race Python**
    - This Python script is a fun turtle race game where the user guesses which turtle will win the race!
 
+### 4. **Snake Game 🐍**
+   - A simple Snake Game implemented in Python using the `turtle` module and **Object-Oriented Programming (OOP)**.
+
 ## How to Use
 1. Clone the repository
 2. Navigate to the folder
