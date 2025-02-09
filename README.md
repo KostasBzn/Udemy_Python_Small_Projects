@@ -23,7 +23,7 @@ This repository contains a collection of small Python projects completed as part
    - A simple Pong game implemented in Python using the `turtle` module practicing with **Object-Oriented Programming (OOP)**.
 
 ### 6. **Turtle Crossing Game 🐢**
-   -  A fun and challenging Turtle Crossing game implemented in Python using the `turtle` module. Help the turtle cross the road safely while avoiding incoming cars!
+   -  A fun and challenging Turtle Crossing game written in Python using the `turtle` module. Help the turtle cross the road safely while avoiding incoming cars and goo to the next level!
 
 
   

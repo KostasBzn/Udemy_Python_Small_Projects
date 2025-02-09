@@ -1,6 +1,6 @@
 # Turtle Crossing Game 🐢
 
-A fun and challenging Turtle Crossing game implemented in Python using the `turtle` module. Help the turtle cross the road safely while avoiding incoming cars!
+A fun and challenging Turtle Crossing game written in Python using the `turtle` module. Help the turtle cross the road safely while avoiding incoming cars!
 
 ## 🎮 How to Play
 - Use the `Up` arrow key to move the turtle forward.
