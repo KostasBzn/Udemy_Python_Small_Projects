@@ -22,6 +22,12 @@ This repository contains a collection of small Python projects completed as part
 ### 5. **Pong Game**
    - A simple Pong game implemented in Python using the `turtle` module practicing with **Object-Oriented Programming (OOP)**.
 
+### 6. **Turtle Crossing Game 🐢**
+   -  A fun and challenging Turtle Crossing game implemented in Python using the `turtle` module. Help the turtle cross the road safely while avoiding incoming cars!
+
+
+  
+
 ## How to Use
 1. Clone the repository
 2. Navigate to the folder

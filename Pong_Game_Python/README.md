@@ -20,4 +20,4 @@ A simple Pong game implemented in Python using the `turtle` module.
 
 ## 🚀 How to Run the Game
 1. Navigate to the folder
-3. Run the main.py
+2. Run the main.py
