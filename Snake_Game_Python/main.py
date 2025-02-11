@@ -1,45 +1,54 @@
-from turtle import  Screen
+from turtle import Screen
+from wsgiref.simple_server import sys_version
+
 from snake import Snake
 from food import Food
-from scoreboard import Score
+from scoreboard import Scoreboard
 import time
 
 screen = Screen()
-
-screen.setup(600, 600)
+screen.setup(width=600, height=600)
 screen.bgcolor("black")
-screen.title("Snake Game")
+screen.title("My Snake Game")
 screen.tracer(0)
-screen.listen()
 
 snake = Snake()
 food = Food()
-score = Score()
+scoreboard = Scoreboard()
 
+screen.listen()
 screen.onkey(snake.up, "Up")
 screen.onkey(snake.down, "Down")
 screen.onkey(snake.left, "Left")
 screen.onkey(snake.right, "Right")
 
-game_on = True
-
-while game_on:
+game_is_on = True
+while game_is_on:
     screen.update()
-    time.sleep(0.2)
+    time.sleep(0.1)
     snake.move()
 
+    #Detect collision with food.
     if snake.head.distance(food) < 15:
-        food.refresh_food()
-        score.score_count()
-        snake.grow()
-    if snake.head.xcor() > 280 or snake.head.xcor() < -280 or snake.head.ycor() < -280 or snake.head.ycor() > 280:
-        score.game_over()
-        game_on = False
+        food.refresh()
+        snake.extend()
+        scoreboard.increase_score()
 
-    for s in snake.snake[1:]:
-        if snake.head.position() == s.position():
-            score.game_over()
-            game_on = False
+    #Detect collision with wall.
+    if snake.head.xcor() > 280 or snake.head.xcor() < -280 or snake.head.ycor() > 280 or snake.head.ycor() < -280:
+        scoreboard.reset_()
+        snake.reset__()
+
+    #Detect collision with tail.
+    for segment in snake.segments:
+        if segment == snake.head:
+            pass
+        elif snake.head.distance(segment) < 10:
+            scoreboard.reset()
+            snake.reset__()
+
+
+
 
 
 screen.exitonclick()
