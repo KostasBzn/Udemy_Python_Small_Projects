@@ -25,8 +25,10 @@ This repository contains a collection of small Python projects completed as part
 ### 6. **Turtle Crossing Game 🐢**
    -  A fun and challenging Turtle Crossing game written in Python using the `turtle` module. Help the turtle cross the road safely while avoiding incoming cars and goo to the next level!
 
+### 7. **U.S. States Game 🗺️**
+   - A fun and educational game to test your knowledge of U.S. states! Built using Python's `turtle` module and pandas.
 
-  
+
 
 ## How to Use
 1. Clone the repository

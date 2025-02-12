@@ -22,5 +22,5 @@ A fun and educational game to test your knowledge of U.S. states! Built using Py
 ## 🚀 How to Run the Game
 1. Clone the repository or download the files.
 2. Navigate to the folder containing the game files.
-3. Install the required libraries ``pip install -r requirements.txt``
+3. Install the required libraries `pip install -r requirements.txt`
 4. Run the main.py
