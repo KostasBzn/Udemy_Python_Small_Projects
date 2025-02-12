@@ -10,9 +10,6 @@ This repository contains a collection of small Python projects completed as part
 ### 2. **Coffee Mashine**
    - A simple coffee machine simulator built using **Object-Oriented Programming (OOP)** in Python. This project demonstrates the use of classes, methods, and attributes to simulate a coffee-making process.
 
-### 3. **Hirst Painting Project**
-   - This Python script uses the `turtle` and `colorgram` libraries to generate a colorful dot painting based on colors extracted from an image.
-
 ### 3. **Turtle Race Python**
    - This Python script is a fun turtle race game where the user guesses which turtle will win the race!
 
