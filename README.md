@@ -1,33 +1,43 @@
 # Udemy Python Small Projects
 
-This repository contains a collection of small Python projects completed as part of the **"100 Days of Code: Python"** Udemy course. Each project is self-contained and demonstrates a specific concept or technique in Python.  
+This repository contains a collection of small Python projects completed as part of the **"100 Days of Code: Python"** Udemy course. Each project is self-contained and demonstrates a specific concept or technique in Python.
 
 ## Projects
 
 ### 1. **Quiz with object oriented programming**
-   - A simple quiz application built using **Object-Oriented Programming (OOP)** in Python. This project demonstrates the use of classes, methods, and static methods to create an interactive quiz.
+
+- A simple quiz application built using **Object-Oriented Programming (OOP)** in Python. This project demonstrates the use of classes, methods, and static methods to create an interactive quiz.
 
 ### 2. **Coffee Mashine**
-   - A simple coffee machine simulator built using **Object-Oriented Programming (OOP)** in Python. This project demonstrates the use of classes, methods, and attributes to simulate a coffee-making process.
+
+- A simple coffee machine simulator built using **Object-Oriented Programming (OOP)** in Python. This project demonstrates the use of classes, methods, and attributes to simulate a coffee-making process.
 
 ### 3. **Turtle Race Python**
-   - This Python script is a fun turtle race game where the user guesses which turtle will win the race!
+
+- This Python script is a fun turtle race game where the user guesses which turtle will win the race!
 
 ### 4. **Snake Game 🐍**
-   - A simple Snake Game implemented in Python using the `turtle` module and **Object-Oriented Programming (OOP)**.
+
+- A simple Snake Game implemented in Python using the `turtle` module and **Object-Oriented Programming (OOP)**.
 
 ### 5. **Pong Game**
-   - A simple Pong game implemented in Python using the `turtle` module practicing with **Object-Oriented Programming (OOP)**.
+
+- A simple Pong game implemented in Python using the `turtle` module practicing with **Object-Oriented Programming (OOP)**.
 
 ### 6. **Turtle Crossing Game 🐢**
-   -  A fun and challenging Turtle Crossing game written in Python using the `turtle` module. Help the turtle cross the road safely while avoiding incoming cars and goo to the next level!
+
+- A fun and challenging Turtle Crossing game written in Python using the `turtle` module. Help the turtle cross the road safely while avoiding incoming cars and goo to the next level!
 
 ### 7. **U.S. States Game 🗺️**
-   - A fun and educational game to test your knowledge of U.S. states! Built using Python's `turtle` module and pandas.
 
+- A fun and educational game to test your knowledge of U.S. states! Built using Python's `turtle` module and pandas.
 
+### 7. **Pomodoro Timer**
+
+- A simple **Pomodoro Timer** built using Python and Tkinter. This application helps users follow the **Pomodoro Technique**, a time management method that alternates focused work sessions with short breaks.
 
 ## How to Use
+
 1. Clone the repository
 2. Navigate to the folder
 3. Install dependencies: `pip install -r requirements.txt`.
