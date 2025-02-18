@@ -32,9 +32,13 @@ This repository contains a collection of small Python projects completed as part
 
 - A fun and educational game to test your knowledge of U.S. states! Built using Python's `turtle` module and pandas.
 
-### 7. **Pomodoro Timer**
+### 8. **Pomodoro Timer**
 
 - A simple **Pomodoro Timer** built using Python and Tkinter. This application helps users follow the **Pomodoro Technique**, a time management method that alternates focused work sessions with short breaks.
+
+### 9. **My-Pass Password Manager**
+
+- A simple and efficient password manager built using Python's `tkinter` library for the graphical user interface.
 
 ## How to Use
 
