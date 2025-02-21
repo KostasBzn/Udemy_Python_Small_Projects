@@ -40,6 +40,10 @@ This repository contains a collection of small Python projects completed as part
 
 - A simple and efficient password manager built using Python's `tkinter` library for the graphical user interface.
 
+### 10. **FlashCard Project**
+
+- A simple flashcard application built with `Python` and `Tkinter` to help you learn French words. The app displays a French word and its English translation after a few seconds. You can mark words as "learned," and they will be excluded from future sessions.
+
 ## How to Use
 
 1. Clone the repository
