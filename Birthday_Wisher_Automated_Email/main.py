@@ -22,11 +22,16 @@ def send_email(receiver, email_content):
         connection.login(user= sender, password=app_password)
         connection.sendmail(from_addr=sender, to_addrs=receiver,
                             msg=f"Subject:{subject}\n\n{email_content}")
-
+        
+# unction to load random template and replace the receivers name
 def random_template(name):
     letters = ["letter_1.txt", "letter_2.txt", "letter_3.txt"]
     random_template = random.choice(letters)
-    
+    with open(f"./letter_templates/{random_template}", "r") as template:
+        email_content = template.read()
+        email_content = email_content.replace("[NAME]", name)
+    return email_content
+
 
         
 # Extract year, month and day from timestamp
