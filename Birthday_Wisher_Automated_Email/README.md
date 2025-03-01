@@ -27,9 +27,10 @@ Before running the project, ensure you have the following:
 ## CSV File Format Example📄
 
 The `birthdays.csv` file should have the following format:
-name,email,year,month,day
-Alice Johnson,alice.johnson@email.com,1990,05,14
-Bob Smith,bob.smith@email.com,1985,08,22
+
+- name,email,year,month,day
+- Alice Johnson,alice.johnson@email.com,1990,05,14
+- Bob Smith,bob.smith@email.com,1985,08,22
 
 ---
 
