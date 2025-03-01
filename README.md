@@ -44,6 +44,10 @@ This repository contains a collection of small Python projects completed as part
 
 - A simple flashcard application built with `Python` and `Tkinter` to help you learn French words. The app displays a French word and its English translation after a few seconds. You can mark words as "learned," and they will be excluded from future sessions.
 
+### 11. **Birthday Email Automation Project**
+
+- This project automates sending birthday emails to recipients listed in a CSV file. It selects a random email template, personalizes it with the recipient's name, and sends the email on their birthday.
+
 ## How to Use
 
 1. Clone the repository
