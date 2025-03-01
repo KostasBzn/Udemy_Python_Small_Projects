@@ -41,6 +41,6 @@ with open("./birthdays.csv", "r") as file:
         receivers_email = row[1]
         receivers_name = row[0]
         email_content = random_template(receivers_name)
-        if int(row[2]) == year and int(row[3]) == month and int(row[4]) == day:
+        if int(row[3]) == month and int(row[4]) == day:
             send_email(receivers_email, email_content)
 
