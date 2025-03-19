@@ -27,5 +27,5 @@ A simple and efficient password manager built using Python's `tkinter` library f
 
 1. Clone the repository or download the files.
 2. Navigate to the folder containing the password manager files.
-3. Install the required libraries: `pip install pyperclip`
+3. Install the required libraries: `pip install -r requirements.txt`
 4. Run the `main.py` script: `python main.py`
