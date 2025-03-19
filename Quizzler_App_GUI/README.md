@@ -4,13 +4,13 @@ An improved version of my previous Quiz App, built using **Object-Oriented Progr
 
 ## Features
 - **OOP Design**: The project is structured using classes like `QuizBrain` and `QuizInterface` to manage the quiz logic and user interface.
-- **Dynamic Question Loading**: Questions are loaded from a list of dictionaries, making it easy to add or modify questions.
+- **Dynamic Question Loading**: The questions used in this project were generated using the **Open Trivia Database**
 - **User Interaction**: The quiz prompts the user with True/False questions and provides immediate feedback on their answers.
 - **Score Tracking**: The app keeps track of the user's score and displays it in real-time.
 - **End of Quiz Handling**: The app gracefully handles the end of the quiz by disabling buttons and displaying a completion message.
 
 ## Questions Source
-The questions used in this project were generated using the **Open Trivia Database** ([https://opentdb.com/](https://opentdb.com/)). The questions are stored in a list of dictionaries within the `data.py` file.
+The questions used in this project were generated using the **Open Trivia Database** ([https://opentdb.com/](https://opentdb.com/)).
 
 ## How to Run
 1. Clone the repository or download the files.
