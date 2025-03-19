@@ -48,6 +48,10 @@ This repository contains a collection of small Python projects completed as part
 
 - This project automates sending birthday emails to recipients listed in a CSV file. It selects a random email template, personalizes it with the recipient's name, and sends the email on their birthday.
 
+### 12. **Quizzer App**
+
+- An improved version of my first Quiz App project, built using **Object-Oriented Programming (OOP)** in Python. This project demonstrates the use of classes, methods, and static methods to create an interactive quiz with GUI.
+
 ## How to Use
 
 1. Clone the repository
