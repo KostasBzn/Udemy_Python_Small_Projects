@@ -35,11 +35,3 @@ A simple Python automation script that monitors Tesla stock price (or any other 
 ### Usage
 
 Run the script. It uses `schedule` to check for stock updates every day at 08:00 AM.
-
-### Example Notification
-
-```
-TSLA: -5%
-Headline: Tesla posts record deliveries in Q2
-Brief: Tesla Inc. delivered a record number of vehicles in the second quarter, beating Wall Street estimates and sending the stock soaring...
-```
