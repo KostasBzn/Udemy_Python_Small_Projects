@@ -52,6 +52,10 @@ This repository contains a collection of small Python projects completed as part
 
 - An improved version of my first Quiz App project, built using **Object-Oriented Programming (OOP)** in Python. This project demonstrates the use of classes, methods, and static methods to create an interactive quiz with GUI.
 
+### 13. **Stock News Notifier**
+
+- A simple Python automation script that monitors Tesla stock price (or any other stock you wish) using the Alpha Vantage API. If the stock price changes by 5% or more (either up or down) compared to the previous trading day, it sends an email alert with the latest relevant news headlines pulled from the NewsAPI.
+
 ## How to Use
 
 1. Clone the repository
