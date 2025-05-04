@@ -43,9 +43,10 @@ A Python script that tracks workouts using the Nutritionix API and saves them to
 ```
 
 2. Install the requirements
-   ```bash
-   pip install -r requirements.txt
-   ```
+
+```bash
+pip install -r requirements.txt
+```
 
 ## Usage
 
