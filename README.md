@@ -56,6 +56,10 @@ This repository contains a collection of small Python projects completed as part
 
 - A simple Python automation script that monitors Tesla stock price (or any other stock you wish) using the Alpha Vantage API. If the stock price changes by 5% or more (either up or down) compared to the previous trading day, it sends an email alert with the latest relevant news headlines pulled from the NewsAPI.
 
+### 14. **Stock News Notifier**
+
+- A simple Python script that tracks workouts using the Nutritionix API and saves them to a Google Sheet via Sheety API.
+
 ## How to Use
 
 1. Clone the repository
