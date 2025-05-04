@@ -33,7 +33,7 @@ A Python script that tracks workouts using the Nutritionix API and saves them to
 
 ### 2. Environment Setup
 
-1. Create a `.env` file with your credentials:#
+1. Create a `.env` file with your credentials:
 
 ```bash
    NUTRITIONIX_APP_ID=your_app_id_here
