@@ -34,10 +34,10 @@ A Python script that tracks workouts using the Nutritionix API and saves them to
 ### 2. Environment Setup
 
 1. Create a .env file with your credentials:
-   NUTRITIONIX_APP_ID=your_app_id_here
-   NUTRITIONIX_APP_KEY=your_app_key_here
-   SHEETY_API=your_sheety_api_id
-   SHEETY_AUTH=Bearer your_sheety_token_here
+   -NUTRITIONIX_APP_ID=your_app_id_here
+   -NUTRITIONIX_APP_KEY=your_app_key_here
+   -SHEETY_API=your_sheety_api_id
+   -SHEETY_AUTH=Bearer your_sheety_token_here
 
 2. Install the requirements
    ```bash
